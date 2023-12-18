@@ -1,4 +1,4 @@
-# React Tic Tac Toe
+# React Timer Challenge Game
 
 Questo gioco è stato creato utilizzando Vite e React.
 
